@@ -1,4 +1,4 @@
-# La-Última-Compra
+# La Última Compra
 Proyecto Proceso de Desarrollo de Videojuegos
 
 Reinvención del clásico Cluedo, juego de mesa de 1949, ambientado en un Mercadona.
